@@ -28,7 +28,7 @@ const StyledHeader = styled.header`
 export default function Header() {
     return (
         <StyledHeader>
-            <h1>Xiaorui Wang</h1>
+            <h1>Xiaorui (Bella) Wang</h1>
             <p>Computer Science Student | Web & Mobile Developer</p>
         </StyledHeader>
     );

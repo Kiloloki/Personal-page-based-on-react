@@ -36,7 +36,7 @@ export default function Root() {
         <Wrapper>
             <Header />
             <Container>
-                <Nav />
+                <Nav/>
                 <Routes>
                     <Route path="/" element={<Home />} />
                     <Route path="/education.html" element={<Education />} />

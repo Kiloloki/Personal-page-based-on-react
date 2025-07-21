@@ -241,7 +241,7 @@ export default function Projects() {
                 </ul>
 
                 <h3>Simple Calculator Demo</h3>
-                <Calculator /> {/* ✅ 使用 Calculator 组件 */}
+                <Calculator /> {/* Calculator components */}
 
             </StyledMain>
         </>
