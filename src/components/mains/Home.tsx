@@ -37,7 +37,7 @@ export default function Home() {
             <title>Home | Xiaorui Wang</title>
             <StyledMain>
                 <h2>About Me</h2>
-                <img src="../../../public/xr.jpg" alt="Xiaorui WANG Profile Picture" />
+                <img src="/public/xr.jpg" alt="Xiaorui WANG Profile Picture" />
                 <p>
                     Results-driven junior Computer Science student from Boston University.
                     Experienced in web and mobile development, with a proven ability to
